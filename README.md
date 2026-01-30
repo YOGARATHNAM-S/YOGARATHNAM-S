@@ -98,6 +98,18 @@ Actively learning, building real-world projects, and contributing to open-source
 - Linux system administration & troubleshooting
 
 ---
+---
+
+## 🏅 Badges
+
+<p align="left">
+  <a href="https://holopin.io/@yogarathnams">
+    <img src="https://holopin.me/yogarathnams" width="480" alt="My Holopin Badges" />
+  </a>
+</p>
+
+---
+---
 
 ## 📈 Current Goals
 
@@ -111,9 +123,9 @@ Actively learning, building real-world projects, and contributing to open-source
 
 ## 🌐 Connect With Me
 
-- 💼 **LinkedIn**: https://www.linkedin.com/in/yogarathnam-s  
-- 📝 **Dev.to**: https://dev.to/yoga0022  
-- 🧠 **HackerRank**: https://www.hackerrank.com/profile/yogarathnam_8021  
+- 💼 **LinkedIn**: [yogarathnam-s](https://www.linkedin.com/in/yogarathnam-s)  
+- 📝 **Dev.to**: [yoga0022](https://dev.to/yoga0022)  
+- 🧠 **HackerRank**: [yogarathnam_8021](https://www.hackerrank.com/profile/yogarathnam_8021)  
 - 📫 **Email**: yogarathinam81@gmail.com  
 
 ---
