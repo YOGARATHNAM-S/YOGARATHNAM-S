@@ -1,6 +1,6 @@
 # Hi 👋, I'm Yogarathnam
 
-### 🚀 DevOps Engineer | ☁️ Cloud Engineer | ⚙️ Automation Enthusiast  
+### ☁️ Cloud Engineer | ⚙️ Automation Enthusiast  
 **Designing, deploying, and optimizing scalable cloud-native systems**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yogarathnam-s&label=Profile%20Views&color=0e75b6&style=flat)
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 Professional Summary
 
-Aspiring **DevOps & Cloud Engineer** with hands-on experience in **CI/CD pipelines, cloud infrastructure, containerization, and automation**.  
+Aspiring **Cloud Engineer** with hands-on experience in **CI/CD pipelines, cloud infrastructure, containerization, and automation**.  
 Strong foundation in **Linux, AWS, Docker, Kubernetes, and Infrastructure as Code**, with a passion for building **reliable, scalable, and secure systems**.  
 Actively learning, building real-world projects, and contributing to open-source communities.
 
@@ -21,7 +21,7 @@ Actively learning, building real-world projects, and contributing to open-source
 
 ## 🛠️ Core Skills (ATS Optimized)
 
-**DevOps & Automation**
+** Cloud & Automation**
 - CI/CD Pipelines (Jenkins)
 - Build & Release Automation
 - Infrastructure Automation
@@ -86,7 +86,7 @@ Actively learning, building real-world projects, and contributing to open-source
 
 ---
 
-## 🚀 DevOps Focus Areas
+## 🚀 Cloud Focus Areas
 
 - Designing and maintaining **CI/CD pipelines**
 - Containerizing applications using **Docker**
@@ -114,10 +114,10 @@ Actively learning, building real-world projects, and contributing to open-source
 ## 📈 Current Goals
 
 - Deepen expertise in **AWS Cloud Architecture**
-- Build **end-to-end DevOps projects**
+- Build **end-to-end Cloud projects**
 - Improve **Kubernetes & Terraform mastery**
-- Contribute to **open-source DevOps tools**
-- Secure a **DevOps / Cloud Engineer role**
+- Contribute to **open-source Cloud tools**
+- Secure a **[Cloud Engineer role**
 
 ---
 
