@@ -19,7 +19,7 @@ Actively learning, building real-world projects, and contributing to open-source
 
 ---
 
-## 🛠️ Core Skills (ATS Optimized)
+## 🛠️ Core Skills
 
 ** Cloud & Automation**
 - CI/CD Pipelines (Jenkins)
